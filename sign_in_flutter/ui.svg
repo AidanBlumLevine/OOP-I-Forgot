@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="ui.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect937"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4696"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       only_selected="false"
+       apply_with_weight="true"
+       apply_no_weight="true"
+       helper_size="0"
+       steps="2"
+       weight="33.333333"
+       is_visible="true"
+       id="path-effect4692"
+       effect="bspline" />
+    <inkscape:path-effect
+       only_selected="false"
+       apply_with_weight="true"
+       apply_no_weight="true"
+       helper_size="0"
+       steps="2"
+       weight="33.333333"
+       is_visible="true"
+       id="path-effect4688"
+       effect="bspline" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4682"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="93.400863"
+     inkscape:cy="797.76001"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="971"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="true"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4585"
+       transform="matrix(0.8644712,0,0,0.8644712,5.4716798,9.4496629)"
+       style="stroke-width:1.15677655">
+      <ellipse
+         ry="2.9513295"
+         rx="20.222073"
+         cy="2.1918967"
+         cx="18.046286"
+         id="ellipse960"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:0.58878503;fill-rule:nonzero;stroke:none;stroke-width:0.88493407;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\party.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+      <ellipse
+         style="opacity:1;fill:#4d4d4d;fill-opacity:0.58878503;fill-rule:nonzero;stroke:none;stroke-width:0.88493407;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse962"
+         cx="62.86277"
+         cy="0.49373093"
+         rx="20.440689"
+         ry="2.9513295"
+         inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\party.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+      <ellipse
+         ry="2.9513295"
+         rx="18.91037"
+         cy="-2.8385694"
+         cx="106.36755"
+         id="ellipse964"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:0.58878503;fill-rule:nonzero;stroke:none;stroke-width:0.88493407;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\party.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+      <ellipse
+         style="opacity:1;fill:#4d4d4d;fill-opacity:0.58878503;fill-rule:nonzero;stroke:none;stroke-width:0.88493407;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path958"
+         cx="-27.863283"
+         cy="3.5035987"
+         rx="20.222073"
+         ry="2.9513295"
+         inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\party.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+      <rect
+         style="opacity:1;fill:#1565c0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4607"
+         width="468.7034"
+         height="313.49951"
+         x="5.0156326"
+         y="22.457836" />
+      <g
+         id="g963"
+         transform="translate(40.520723,-90.381393)"
+         inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\party.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120">
+        <rect
+           y="38.191898"
+           x="36.509373"
+           height="50.719143"
+           width="59.378761"
+           id="rect938"
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <g
+           id="g4638">
+          <circle
+             style="opacity:1;fill:#55d400;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle4539"
+             cx="53.869907"
+             cy="49.055882"
+             r="9.1814604" />
+          <circle
+             r="9.1814604"
+             cy="49.055882"
+             cx="77.371231"
+             id="circle4664"
+             style="opacity:1;fill:#55d400;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <ellipse
+             style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle4537"
+             cx="65.64209"
+             cy="68.809822"
+             rx="13.473633"
+             ry="15.328659" />
+          <path
+             style="opacity:1;fill:#ff5d5d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 66.084058,74.872543 a 13.830947,12.109147 0 0 0 -11.128249,4.941864 13.830947,12.109147 0 0 0 11.128249,4.942332 13.830947,12.109147 0 0 0 11.12886,-4.941861 13.830947,12.109147 0 0 0 -11.12886,-4.942335 z"
+             id="ellipse4591"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             style="opacity:1;fill:#55d400;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="M 65.641982,42.25608 A 22.678571,22.678571 0 0 0 42.963371,64.934688 22.678571,22.678571 0 0 0 65.641982,87.612702 22.678571,22.678571 0 0 0 88.320589,64.934688 22.678571,22.678571 0 0 0 65.641982,42.25608 Z m 0,11.225129 A 13.473633,15.328659 0 0 1 79.115959,68.810101 13.473633,15.328659 0 0 1 65.641982,84.138397 13.473633,15.328659 0 0 1 52.168598,68.810101 13.473633,15.328659 0 0 1 65.641982,53.481209 Z"
+             id="path4518" />
+          <circle
+             style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65357876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle4666"
+             cx="77.371231"
+             cy="49.055882"
+             r="3.7024345" />
+          <circle
+             r="3.7024345"
+             cy="49.055882"
+             cx="53.869907"
+             id="circle4558"
+             style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65357876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         id="g975"
+         transform="translate(-3.2947916,-36.46399)"
+         inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\party.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect936"
+           width="59.378761"
+           height="50.719143"
+           x="36.509373"
+           y="-13.401713" />
+        <g
+           transform="translate(0,-50.704063)"
+           id="g4662">
+          <path
+             sodipodi:nodetypes="ccccc"
+             id="path4656"
+             d="m 65.641982,42.25608 c -12.525059,-2.2e-5 -22.678631,10.153549 -22.678611,22.678608 3.08e-4,12.524827 10.153784,22.678036 22.678611,22.678014 12.524825,2e-5 22.678299,-10.153189 22.678607,-22.678014 2e-5,-12.525057 -10.15355,-22.678628 -22.678607,-22.678608 z"
+             style="opacity:1;fill:#ff9955;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
+          <circle
+             r="9.1814604"
+             cy="52.600365"
+             cx="50.740688"
+             id="circle4642"
+             style="opacity:1;fill:#ff9955;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <circle
+             style="opacity:1;fill:#ff9955;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle4672"
+             cx="81.657799"
+             cy="52.600365"
+             r="9.1814604" />
+          <ellipse
+             ry="14.323853"
+             rx="13.473633"
+             cy="69.814629"
+             cx="65.64209"
+             id="ellipse4644"
+             style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <circle
+             style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65357876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle4658"
+             cx="50.740688"
+             cy="52.600365"
+             r="3.7024345" />
+          <circle
+             r="3.7024345"
+             cy="52.600365"
+             cx="81.657799"
+             id="circle4674"
+             style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65357876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.89133859;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 224.38672,-67.783203 c -0.4351,0.0094 -0.87004,0.0257 -1.30469,0.04883 v 42.808594 l 20.35771,0.178571 5.35714,-35.153181 c -7.22649,-5.131391 -15.71993,-7.874189 -24.41016,-7.882812 z m -4.63086,0.3125 c -9.64424,1.078028 -18.68378,5.51129 -25.71484,12.611328 l 5.35714,30.006976 20.3577,0.178571 z"
+             transform="matrix(0.30606379,0,0,0.30606379,-3.0347192,76.236905)"
+             id="rect1000"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccccccccc" />
+        </g>
+      </g>
+      <g
+         id="g988"
+         transform="translate(-33.578024,-32.663382)"
+         inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\party.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120">
+        <rect
+           y="-13.401713"
+           x="-24.703384"
+           height="50.719143"
+           width="59.378761"
+           id="rect934"
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <g
+           id="g863"
+           transform="translate(-60.33829,-50.704063)">
+          <path
+             sodipodi:nodetypes="ccccc"
+             id="path903"
+             d="m 65.641982,42.25608 c -12.525059,-2.2e-5 -22.678631,10.153549 -22.678611,22.678608 3.08e-4,12.524827 10.153784,22.678036 22.678611,22.678014 12.524825,2e-5 22.678299,-10.153189 22.678607,-22.678014 2e-5,-12.525057 -10.15355,-22.678628 -22.678607,-22.678608 z"
+             style="opacity:1;fill:#ffd42a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
+          <circle
+             style="opacity:1;fill:#ffd42a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle849"
+             cx="45.021023"
+             cy="51.518265"
+             r="9.1814604" />
+          <ellipse
+             style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="ellipse853"
+             cx="65.64209"
+             cy="71.051315"
+             rx="13.473633"
+             ry="13.087168" />
+          <circle
+             r="9.1814604"
+             cy="51.054508"
+             cx="85.677025"
+             id="circle851"
+             style="opacity:1;fill:#ffd42a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <circle
+             r="3.7024345"
+             cy="53.218708"
+             cx="54.296154"
+             id="circle855"
+             style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65357876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <circle
+             style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65357876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle857"
+             cx="75.47438"
+             cy="53.218708"
+             r="3.7024345" />
+          <path
+             inkscape:connector-curvature="0"
+             id="circle878"
+             d="m 44.711849,45.892317 a 5.1622362,5.1622362 0 0 0 -5.162435,5.162435 5.1622362,5.1622362 0 0 0 3.781562,4.968754 c 1.178637,-3.132403 3.029976,-5.933737 5.378832,-8.230246 a 5.1622362,5.1622362 0 0 0 -3.997959,-1.900943 z"
+             style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 85.734647,45.765417 a 5.2915564,5.2915564 0 0 1 5.29176,5.29176 5.2915564,5.2915564 0 0 1 -3.876295,5.093227 C 85.941949,52.93953 84.044232,50.06802 81.636534,47.71398 a 5.2915564,5.2915564 0 0 1 4.098113,-1.948563 z"
+             id="path884"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="ellipse911"
+             transform="matrix(0.30606379,0,0,0.30606379,47.728367,36.968402)"
+             d="m 31.314453,78.021484 -0.380859,0.03711 a 44.022302,42.759608 0 0 0 -7.791016,7.947265 l 4.636719,16.765621 z m 54.494141,0 3.535156,24.749996 4.619141,-16.701168 A 44.022302,42.759608 0 0 0 86.066406,78.046875 Z M 27.779297,122.04102 23.5625,137.28516 a 44.022302,42.759608 0 0 0 7.451172,7.40039 z m 61.564453,0 -3.232422,22.62695 a 44.022302,42.759608 0 0 0 7.425781,-7.4707 z"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.13543296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         id="g952"
+         transform="translate(12.163765,-84.756831)"
+         inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\party.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect940"
+           width="59.378761"
+           height="50.719143"
+           x="-24.922003"
+           y="38.191898" />
+        <g
+           transform="translate(-60.33829)"
+           id="g928">
+          <circle
+             r="9.1814604"
+             cy="49.055882"
+             cx="53.869907"
+             id="circle914"
+             style="opacity:1;fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <circle
+             style="opacity:1;fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle916"
+             cx="77.371231"
+             cy="48.837265"
+             r="9.1814604" />
+          <path
+             sodipodi:nodetypes="ccccc"
+             id="path922"
+             d="m 65.641982,42.25608 c -12.525059,-2.2e-5 -22.678631,10.153549 -22.678611,22.678608 3.08e-4,12.524827 10.153784,22.678036 22.678611,22.678014 12.524825,2e-5 22.678299,-10.153189 22.678607,-22.678014 2e-5,-12.525057 -10.15355,-22.678628 -22.678607,-22.678608 z"
+             style="opacity:1;fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
+          <ellipse
+             ry="13.689032"
+             rx="13.473633"
+             cy="70.449448"
+             cx="65.64209"
+             id="ellipse918"
+             style="opacity:1;fill:#ff8d8d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <circle
+             cy="50.804817"
+             cx="75.840912"
+             id="circle924"
+             style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65357876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             r="3.7024345" />
+          <circle
+             style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65357876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle926"
+             cx="54.96299"
+             cy="51.24205"
+             r="3.7024345" />
+          <circle
+             style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65357876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle930"
+             cx="69.486694"
+             cy="70.480347"
+             r="2.6236813" />
+          <circle
+             r="2.6236813"
+             cy="70.480347"
+             cx="61.317219"
+             id="circle932"
+             style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65357876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         id="g1008"
+         transform="translate(-0.30917078,0.61834185)"
+         inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\simple.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect990"
+           width="59.378761"
+           height="50.719143"
+           x="36.509373"
+           y="38.191898" />
+        <g
+           id="g1006">
+          <path
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.13543296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 204.76953,170.03711 a 29.998519,29.998519 0 0 0 -29.99805,29.99805 29.998519,29.998519 0 0 0 4.17969,15.21289 74.09753,74.09753 0 0 0 -9.8164,36.66797 74.09753,74.09753 0 0 0 74.09765,74.0957 74.09753,74.09753 0 0 0 74.09766,-74.0957 74.09753,74.09753 0 0 0 -9.86914,-36.82618 29.998519,29.998519 0 0 0 4.09375,-15.05468 29.998519,29.998519 0 0 0 -29.99805,-29.99805 29.998519,29.998519 0 0 0 -22.03906,9.6875 74.09753,74.09753 0 0 0 -16.28516,-1.90625 74.09753,74.09753 0 0 0 -16.42969,1.91406 29.998519,29.998519 0 0 0 -22.0332,-9.69531 z m 0,17.90234 a 12.096937,12.096937 0 0 1 12.09766,12.09571 12.096937,12.096937 0 0 1 -12.09766,12.09765 12.096937,12.096937 0 0 1 -12.0957,-12.09765 12.096937,12.096937 0 0 1 12.0957,-12.09571 z m 76.78711,0 a 12.096937,12.096937 0 0 1 12.0957,12.09571 12.096937,12.096937 0 0 1 -12.0957,12.09765 12.096937,12.096937 0 0 1 -12.09766,-12.09765 12.096937,12.096937 0 0 1 12.09766,-12.09571 z m -38.32422,26.55469 a 44.022303,50.083216 0 0 1 13.55078,2.46094 44.022303,50.083216 0 0 1 0.002,0 44.022302,50.083216 0 0 1 4.11132,1.7793 44.022302,50.083216 0 0 1 13.2129,10.20312 44.022302,50.083216 0 0 1 0.16015,0.16992 44.022303,50.083216 0 0 1 12.98633,35.4707 44.022303,50.083216 0 0 1 -44.02344,50.08204 44.022303,50.083216 0 0 1 -44.02148,-50.08204 44.022303,50.083216 0 0 1 13.02148,-35.52539 44.022302,50.083216 0 0 1 0.004,-0.004 44.022302,50.083216 0 0 1 17.16992,-11.95313 44.022303,50.083216 0 0 1 13.82617,-2.60156 z"
+             transform="matrix(0.30606379,0,0,0.30606379,-8.80288,-12.167832)"
+             id="circle992"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g929"
+         transform="translate(-202.81625,12.366845)">
+        <text
+           inkscape:export-ydpi="120"
+           inkscape:export-xdpi="120"
+           inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\pigSleeping.png"
+           id="text880"
+           y="-36.793728"
+           x="98.447502"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.48893547px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.35404742"
+           xml:space="preserve"><tspan
+             style="font-weight:bold;font-size:8.1617012px;fill:#4d4d4d;fill-opacity:1;stroke-width:0.35404742"
+             y="-36.793728"
+             x="98.447502"
+             id="tspan878"
+             sodipodi:role="line">Z</tspan></text>
+        <text
+           inkscape:export-ydpi="120"
+           inkscape:export-xdpi="120"
+           inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\pigSleeping.png"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3366518px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.35404742"
+           x="89.899223"
+           y="-44.66394"
+           id="text884"><tspan
+             sodipodi:role="line"
+             id="tspan882"
+             x="89.899223"
+             y="-44.66394"
+             style="font-weight:bold;font-size:11.52118587px;fill:#4d4d4d;fill-opacity:1;stroke-width:0.35404742">Z</tspan></text>
+        <text
+           inkscape:export-ydpi="120"
+           inkscape:export-xdpi="120"
+           inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\pigSleeping.png"
+           id="text888"
+           y="-53.408627"
+           x="97.746468"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5124712px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.35404742"
+           xml:space="preserve"><tspan
+             style="font-weight:bold;font-size:13.6590395px;fill:#4d4d4d;fill-opacity:1;stroke-width:0.35404742"
+             y="-53.408627"
+             x="97.746468"
+             id="tspan886"
+             sodipodi:role="line">Z</tspan></text>
+        <g
+           id="g910"
+           transform="translate(92.779932,-73.939612)"
+           inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\pigSleeping.png"
+           inkscape:export-xdpi="120"
+           inkscape:export-ydpi="120">
+          <rect
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect890"
+             width="59.378761"
+             height="50.719143"
+             x="-24.922003"
+             y="38.191898" />
+          <g
+             transform="translate(-60.33829)"
+             id="g908">
+            <circle
+               r="9.1814604"
+               cy="49.055882"
+               cx="53.869907"
+               id="circle892"
+               style="opacity:1;fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <circle
+               style="opacity:1;fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle894"
+               cx="77.371231"
+               cy="48.837265"
+               r="9.1814604" />
+            <path
+               sodipodi:nodetypes="ccccc"
+               id="path896"
+               d="m 65.641982,42.25608 c -12.525059,-2.2e-5 -22.678631,10.153549 -22.678611,22.678608 3.08e-4,12.524827 10.153784,22.678036 22.678611,22.678014 12.524825,2e-5 22.678299,-10.153189 22.678607,-22.678014 2e-5,-12.525057 -10.15355,-22.678628 -22.678607,-22.678608 z"
+               style="opacity:1;fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+            <ellipse
+               ry="13.689032"
+               rx="13.473633"
+               cy="70.449448"
+               cx="65.64209"
+               id="ellipse898"
+               style="opacity:1;fill:#ff8d8d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <ellipse
+               ry="0.39958495"
+               rx="3.7024345"
+               cy="54.497711"
+               cx="75.840912"
+               id="ellipse900"
+               style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65357876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <ellipse
+               ry="0.39958495"
+               rx="3.7024345"
+               style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65357876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="ellipse902"
+               cx="54.96299"
+               cy="54.544899" />
+            <circle
+               style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65357876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle904"
+               cx="69.486694"
+               cy="70.480347"
+               r="2.6236813" />
+            <circle
+               r="2.6236813"
+               cy="70.480347"
+               cx="61.317219"
+               id="circle906"
+               style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65357876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          </g>
+        </g>
+      </g>
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#ffa81d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.07360852;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path942"
+         sodipodi:sides="3"
+         sodipodi:cx="-38.174133"
+         sodipodi:cy="-68.054283"
+         sodipodi:r1="19.487593"
+         sodipodi:r2="9.7437963"
+         sodipodi:arg1="1.539061"
+         sodipodi:arg2="2.5862585"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m -37.555792,-48.576503 -17.795764,-28.681171 33.736505,-1.070999 z"
+         inkscape:transform-center-x="-2.8472389"
+         inkscape:transform-center-y="2.3080131"
+         transform="matrix(0.62933847,0.25671502,-0.35817146,0.93345451,-44.57021,5.5803389)"
+         inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\party.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+      <path
+         transform="matrix(0.6480179,0.20504223,-0.28160259,0.95933524,-17.004322,12.170834)"
+         inkscape:transform-center-y="2.7927919"
+         inkscape:transform-center-x="-2.1976134"
+         d="m -37.555792,-48.576503 -17.795764,-28.681171 33.736505,-1.070999 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="2.5862585"
+         sodipodi:arg1="1.539061"
+         sodipodi:r2="9.7437963"
+         sodipodi:r1="19.487593"
+         sodipodi:cy="-68.054283"
+         sodipodi:cx="-38.174133"
+         sodipodi:sides="3"
+         id="path944"
+         style="opacity:1;fill:#ff5d5d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.07360852;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star"
+         inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\party.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#00d215;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.07360852;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path946"
+         sodipodi:sides="3"
+         sodipodi:cx="-38.174133"
+         sodipodi:cy="-68.054283"
+         sodipodi:r1="19.487593"
+         sodipodi:r2="9.7437963"
+         sodipodi:arg1="1.539061"
+         sodipodi:arg2="2.5862585"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m -37.555792,-48.576503 -17.795764,-28.681171 33.736505,-1.070999 z"
+         inkscape:transform-center-x="-1.3779025"
+         inkscape:transform-center-y="3.3646781"
+         transform="matrix(0.66519928,0.13956872,-0.18478347,0.98258801,11.573326,15.582286)"
+         inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\party.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+      <path
+         transform="matrix(0.67542833,0.07593468,-0.09088363,0.99567278,41.541931,16.826127)"
+         inkscape:transform-center-y="3.8782435"
+         inkscape:transform-center-x="-0.58462641"
+         d="m -37.555792,-48.576503 -17.795764,-28.681171 33.736505,-1.070999 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="2.5862585"
+         sodipodi:arg1="1.539061"
+         sodipodi:r2="9.7437963"
+         sodipodi:r1="19.487593"
+         sodipodi:cy="-68.054283"
+         sodipodi:cx="-38.174133"
+         sodipodi:sides="3"
+         id="path948"
+         style="opacity:1;fill:#ffd42a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.07360852;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star"
+         inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\party.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#ff5d5d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.07360852;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path950"
+         sodipodi:sides="3"
+         sodipodi:cx="-38.174133"
+         sodipodi:cy="-68.054283"
+         sodipodi:r1="19.487593"
+         sodipodi:r2="9.7437963"
+         sodipodi:arg1="1.539061"
+         sodipodi:arg2="2.5862585"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m -37.555792,-48.576503 -17.795764,-28.681171 33.736505,-1.070999 z"
+         inkscape:transform-center-x="0.38375096"
+         inkscape:transform-center-y="3.9605808"
+         transform="matrix(0.67968016,-0.00209555,0.02400434,0.99952384,73.329035,14.418643)"
+         inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\party.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+      <path
+         transform="matrix(0.67684073,-0.0620978,0.11216072,0.99350092,102.40789,8.6265133)"
+         inkscape:transform-center-y="3.4911234"
+         inkscape:transform-center-x="1.125181"
+         d="m -37.555792,-48.576503 -17.795764,-28.681171 33.736505,-1.070999 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="2.5862585"
+         sodipodi:arg1="1.539061"
+         sodipodi:r2="9.7437963"
+         sodipodi:r1="19.487593"
+         sodipodi:cy="-68.054283"
+         sodipodi:cx="-38.174133"
+         sodipodi:sides="3"
+         id="path952"
+         style="opacity:1;fill:#ffa81d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.07360852;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star"
+         inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\party.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#00d215;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.07360852;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path954"
+         sodipodi:sides="3"
+         sodipodi:cx="-38.174133"
+         sodipodi:cy="-68.054283"
+         sodipodi:r1="19.487593"
+         sodipodi:r2="9.7437963"
+         sodipodi:arg1="1.539061"
+         sodipodi:arg2="2.5862585"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m -37.555792,-48.576503 -17.795764,-28.681171 33.736505,-1.070999 z"
+         inkscape:transform-center-x="1.7886982"
+         inkscape:transform-center-y="3.0426916"
+         transform="matrix(0.66971322,-0.11599015,0.19119942,0.98135971,130.3934,1.7237342)"
+         inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\party.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+      <path
+         transform="matrix(0.65809947,-0.16992528,0.27016293,0.96261939,157.89334,-7.7939741)"
+         inkscape:transform-center-y="2.5676901"
+         inkscape:transform-center-x="2.4503874"
+         d="m -37.555792,-48.576503 -17.795764,-28.681171 33.736505,-1.070999 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="2.5862585"
+         sodipodi:arg1="1.539061"
+         sodipodi:r2="9.7437963"
+         sodipodi:r1="19.487593"
+         sodipodi:cy="-68.054283"
+         sodipodi:cx="-38.174133"
+         sodipodi:sides="3"
+         id="path956"
+         style="opacity:1;fill:#ffd42a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.07360852;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star"
+         inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\party.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.88493407;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -53.014352,-81.657815 c 61.9451754,25.63498 113.44483,22.987623 176.536702,1.545857"
+         id="path935"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\party.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+      <g
+         inkscape:export-ydpi="120"
+         inkscape:export-xdpi="120"
+         inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\bear.png"
+         transform="translate(-200.05009,67.597699)"
+         id="g998">
+        <rect
+           y="-13.401713"
+           x="36.509373"
+           height="50.719143"
+           width="59.378761"
+           id="rect978"
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <g
+           id="g996"
+           transform="translate(0,-50.704063)">
+          <path
+             inkscape:connector-curvature="0"
+             style="opacity:1;fill:#ff9955;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 65.641982,42.25608 c -12.525059,-2.2e-5 -22.678631,10.153549 -22.678611,22.678608 3.08e-4,12.524827 10.153784,22.678036 22.678611,22.678014 12.524825,2e-5 22.678299,-10.153189 22.678607,-22.678014 2e-5,-12.525057 -10.15355,-22.678628 -22.678607,-22.678608 z"
+             id="path980"
+             sodipodi:nodetypes="ccccc" />
+          <circle
+             style="opacity:1;fill:#ff9955;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle982"
+             cx="50.740688"
+             cy="52.600365"
+             r="9.1814604" />
+          <circle
+             r="9.1814604"
+             cy="52.600365"
+             cx="81.657799"
+             id="circle984"
+             style="opacity:1;fill:#ff9955;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <ellipse
+             style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="ellipse986"
+             cx="65.64209"
+             cy="69.814629"
+             rx="13.473633"
+             ry="14.323853" />
+          <circle
+             r="3.7024345"
+             cy="52.600365"
+             cx="50.740688"
+             id="circle988"
+             style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65357876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <circle
+             style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65357876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle990"
+             cx="81.657799"
+             cy="52.600365"
+             r="3.7024345" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             style="fill:#ffffff;stroke:#ffffff;stroke-width:0.3060638px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 60.125642,56.909145 c -2.183995,1.053952 -4.063762,2.708577 -5.445184,4.793007 0.01034,0.102882 0.02531,0.192117 0.03766,0.262425 0.05179,0.294685 0.05207,0.29462 0.845259,1.640909 0.793189,1.346288 2.301924,2.257736 3.226644,1.614851 0.924717,-0.642884 1.264858,-3.161298 1.381652,-5.548847 0.07571,-1.547711 0.08917,-2.357268 -0.04603,-2.762345 z"
+             id="path992"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path994"
+             d="m 71.109922,56.889822 c 2.183995,1.053952 4.063762,2.708577 5.445184,4.793007 -0.01034,0.102882 -0.02531,0.192117 -0.03766,0.262425 -0.05179,0.294685 -0.05207,0.29462 -0.845259,1.640909 -0.793189,1.346288 -2.301924,2.257736 -3.226644,1.614851 -0.924717,-0.642884 -1.264858,-3.161298 -1.381652,-5.548847 -0.07571,-1.547711 -0.08917,-2.357268 0.04603,-2.762345 z"
+             style="fill:#ffffff;stroke:#ffffff;stroke-width:0.3060638px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             sodipodi:nodetypes="ccccccc" />
+        </g>
+      </g>
+      <g
+         inkscape:export-ydpi="120"
+         inkscape:export-xdpi="120"
+         inkscape:export-filename="C:\Users\Aidan\Desktop\flutter-app\sign_in_flutter\assets\logos\party.png"
+         transform="translate(-62.872701,141.79298)"
+         id="g944">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect920"
+           width="59.378761"
+           height="50.719143"
+           x="-24.703384"
+           y="-13.401713" />
+        <g
+           transform="translate(-60.33829,-50.704063)"
+           id="g942">
+          <path
+             inkscape:connector-curvature="0"
+             style="opacity:1;fill:#ffd42a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 65.641982,42.25608 c -12.525059,-2.2e-5 -22.678631,10.153549 -22.678611,22.678608 3.08e-4,12.524827 10.153784,22.678036 22.678611,22.678014 12.524825,2e-5 22.678299,-10.153189 22.678607,-22.678014 2e-5,-12.525057 -10.15355,-22.678628 -22.678607,-22.678608 z"
+             id="path923"
+             sodipodi:nodetypes="ccccc" />
+          <circle
+             r="9.1814604"
+             cy="51.518265"
+             cx="45.021023"
+             id="circle925"
+             style="opacity:1;fill:#ffd42a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <ellipse
+             ry="13.087168"
+             rx="13.473633"
+             cy="71.051315"
+             cx="65.64209"
+             id="ellipse927"
+             style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <circle
+             style="opacity:1;fill:#ffd42a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle929"
+             cx="85.677025"
+             cy="51.054508"
+             r="9.1814604" />
+          <circle
+             style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65357876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle931"
+             cx="54.296154"
+             cy="53.218708"
+             r="3.7024345" />
+          <circle
+             r="3.7024345"
+             cy="53.218708"
+             cx="75.47438"
+             id="circle933"
+             style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65357876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 44.711849,45.892317 a 5.1622362,5.1622362 0 0 0 -5.162435,5.162435 5.1622362,5.1622362 0 0 0 3.781562,4.968754 c 1.178637,-3.132403 3.029976,-5.933737 5.378832,-8.230246 a 5.1622362,5.1622362 0 0 0 -3.997959,-1.900943 z"
+             id="path936"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path938"
+             d="m 85.734647,45.765417 a 5.2915564,5.2915564 0 0 1 5.29176,5.29176 5.2915564,5.2915564 0 0 1 -3.876295,5.093227 C 85.941949,52.93953 84.044232,50.06802 81.636534,47.71398 a 5.2915564,5.2915564 0 0 1 4.098113,-1.948563 z"
+             style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6535787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.13543296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 31.314453,78.021484 -0.380859,0.03711 a 44.022302,42.759608 0 0 0 -7.791016,7.947265 l 4.636719,16.765621 z m 54.494141,0 3.535156,24.749996 4.619141,-16.701168 A 44.022302,42.759608 0 0 0 86.066406,78.046875 Z M 27.779297,122.04102 23.5625,137.28516 a 44.022302,42.759608 0 0 0 7.451172,7.40039 z m 61.564453,0 -3.232422,22.62695 a 44.022302,42.759608 0 0 0 7.425781,-7.4707 z"
+             transform="matrix(0.30606379,0,0,0.30606379,47.728367,36.968402)"
+             id="path940"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <path
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.88493407;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -21.054199,140.24736 -25.699792,25.69919 -10.1294,-10.1294 -5.6837,5.6837 15.74017,15.74077 31.456423,-31.31056 z"
+         id="rect946"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.11208963px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="83.421623"
+       y="87.150482"
+       id="text4577"
+       transform="scale(1.0313214,0.96962983)"><tspan
+         sodipodi:role="line"
+         id="tspan4575"
+         x="83.421623"
+         y="87.150482"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.55185318px;line-height:5.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;fill:#ffffff;stroke-width:0.26458332">OPS!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.55794525px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="50.375671"
+       y="112.85747"
+       id="text4589"><tspan
+         sodipodi:role="line"
+         id="tspan4587"
+         x="50.375671"
+         y="112.85747"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';stroke-width:0.26458332;fill:#ffffff;">I Forgot!</tspan></text>
+  </g>
+</svg>
