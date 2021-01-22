@@ -190,6 +190,10 @@ class AssignmentWidgetState extends State<AssignmentWidget> with SingleTickerPro
             if (widget.assignment.completed) {
               widget.assignment.completedAt = DateTime.now();
               widget.assignment.clearNotification();
+              widget.assignment.clearAlertNotification();
+            } else {
+              widget.assignment.addNotification();
+              widget.assignment.addAlertNotification();
             }
             widget.setCourseState();
           }),
@@ -281,6 +285,7 @@ class AssignmentWidgetState extends State<AssignmentWidget> with SingleTickerPro
           widget.assignment.alert = AlertData(date);
           widget.assignment.addAlertNotification();
         });
+        setState(() {});
       },
     );
   }

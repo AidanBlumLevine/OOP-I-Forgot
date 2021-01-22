@@ -6,6 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:timezone/data/latest.dart' as tz;
 import 'package:timezone/timezone.dart' as tz;
 import 'package:uuid/uuid.dart';
+import 'appinfo.dart';
 import 'assignmentwidget.dart';
 import 'notifications.dart';
 
@@ -218,7 +219,7 @@ class CourseData {
   int compareAssignments(AssignmentData a, AssignmentData b) {
     if (a.completed) {
       if (b.completed) {
-        return a.completedAt.isBefore(b.completedAt) ? 1 : -1;
+        return a.completedAt.isBefore(b.completedAt) ? -1 : 1;
       }
     }
     if (a.due == null) {
@@ -340,8 +341,8 @@ class AssignmentData {
   bool completed = false, newassignment = true;
   DateTime due, createdAt, completedAt;
   AlertData alert;
-  Notifications notifications;
   String uuid;
+  AppInfo info;
 
   AssignmentData(this.id, this.name, this.due) : this.uuid = Uuid().v4();
 
@@ -372,14 +373,14 @@ class AssignmentData {
     if (due != null && notificationID == 0 && due.isAfter(DateTime.now().add(Duration(hours: 1, seconds: 1)))) {
       notificationID = Random().nextInt(2147483647);
       tz.TZDateTime time = tz.TZDateTime.from(due.subtract(Duration(hours: 1)), tz.getLocation('US/Eastern'));
-      notifications.notify(notificationID, '$name is due in one hour!', 'make sure it is ${id == 333 ? "complete" : "turned in"} by that time',
+      info.notifications.notify(notificationID, '$name is due in one hour!', 'make sure it is ${id == 333 ? "complete" : "turned in"} by that time',
           '$notificationID', time);
     }
   }
 
   clearNotification() {
     if (notificationID != 0) {
-      notifications.flutterLocalNotificationsPlugin.cancel(notificationID);
+      info.notifications.flutterLocalNotificationsPlugin.cancel(notificationID);
       notificationID = 0;
     }
   }
@@ -391,7 +392,7 @@ class AssignmentData {
     if (alert.time != null && alert.notificationID == 0 && alert.time.isAfter(DateTime.now().add(Duration(seconds: 20)))) {
       alert.notificationID = Random().nextInt(2147483647);
       tz.TZDateTime time = tz.TZDateTime.from(alert.time, tz.getLocation('US/Eastern'));
-      notifications.notify(alert.notificationID, 'Reminder: $name', 'make sure to complete this task soon', '${alert.notificationID}', time);
+      info.notifications.notify(alert.notificationID, 'Reminder: $name', 'make sure to complete this task soon', '${alert.notificationID}', time);
     }
   }
 
@@ -400,7 +401,7 @@ class AssignmentData {
       return;
     }
     if (alert.notificationID != 0) {
-      notifications.flutterLocalNotificationsPlugin.cancel(alert.notificationID);
+      info.notifications.flutterLocalNotificationsPlugin.cancel(alert.notificationID);
       alert.notificationID = 0;
     }
   }

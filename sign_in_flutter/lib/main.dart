@@ -40,9 +40,6 @@ class RouteState extends State<Route> {
     info.api = ApiService();
     tz.initializeTimeZones();
     tz.setLocalLocation(tz.getLocation('US/Eastern'));
-    final FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin = FlutterLocalNotificationsPlugin();
-    info.notifications = Notifications(flutterLocalNotificationsPlugin);
-    info.notifications.initNotifications();
   }
 
   init(ctx) {

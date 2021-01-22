@@ -46,8 +46,6 @@ class CourseWidgetState extends State<CourseWidget> with SingleTickerProviderSta
     int _overdue = widget.course.overdueCount();
     int _new = widget.course.newCount();
 
-    DateTime fourDaysAgo = DateTime.now().subtract(Duration(days: 4));
-
     return AnimatedContainer(
       duration: const Duration(milliseconds: 200),
       decoration: BoxDecoration(
@@ -107,6 +105,15 @@ class CourseWidgetState extends State<CourseWidget> with SingleTickerProviderSta
                   onChanged: (value) {
                     setState(() {
                       widget.course.enabled = value;
+                      for (AssignmentData a in widget.course.assignments) {
+                        if (value) {
+                          a.addNotification();
+                          a.addAlertNotification();
+                        } else {
+                          a.clearAlertNotification();
+                          a.clearNotification();
+                        }
+                      }
                     });
                   },
                   activeColor: widget.accentColor,
@@ -224,7 +231,9 @@ class CourseWidgetState extends State<CourseWidget> with SingleTickerProviderSta
                   if (newName == "") {
                     newName = "New task";
                   }
-                  widget.course.assignments.add(new AssignmentData(333, newName, null));
+                  AssignmentData ad = new AssignmentData(333, newName, null);
+                  ad.info = widget.info;
+                  widget.course.assignments.add(ad);
                 });
               },
             ),

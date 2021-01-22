@@ -16,6 +16,10 @@ class AppInfo {
   ApiService api;
   Notifications notifications;
   Future postLogin(BuildContext context) async {
+    print("NOTIFICATIONS");
+    final FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin = FlutterLocalNotificationsPlugin();
+    notifications = Notifications(flutterLocalNotificationsPlugin);
+    notifications.initNotifications();
     //load saved data
     String email = api.account.email;
     Directory path = await getApplicationDocumentsDirectory();
@@ -115,7 +119,7 @@ class AppInfo {
     for (CourseData cd in data.courses) {
       //NOTIFICATIONS
       for (AssignmentData ad in cd.assignments) {
-        ad.notifications = notifications;
+        ad.info = this;
         ad.addNotification();
       }
 
