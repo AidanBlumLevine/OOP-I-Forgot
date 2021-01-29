@@ -30,6 +30,9 @@ class AppData {
     courses = List<CourseData>.from(json['courses'].map((i) => CourseData.fromJson(i)));
     events = List<EventData>.from((json['events'] ?? []).map((i) => EventData.fromJson(i)));
     currentPage = json['currentPage'];
+    if (currentPage == 3) {
+      currentPage = 1;
+    }
   }
 
   Map toJson() => {
@@ -191,11 +194,12 @@ class CourseData {
 
   int overdueCount() {
     DateTime now = DateTime.now();
-    return assignments.fold(0, (prev, element) => prev + (element.due != null && element.due.isBefore(now) && !element.completed ? 1 : 0));
+    return assignments.fold(
+        0, (prev, element) => prev + (element.due != null && !element.completed && element.due.isBefore(now) && !element.completed ? 1 : 0));
   }
 
   int newCount() {
-    return assignments.fold(0, (prev, element) => prev + (element.newassignment ? 1 : 0));
+    return assignments.fold(0, (prev, element) => prev + ((element.newassignment && !element.completed) ? 1 : 0));
   }
 
   Color darken(Color color, [double amount = .1]) {

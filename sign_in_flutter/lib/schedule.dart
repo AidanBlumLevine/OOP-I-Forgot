@@ -23,7 +23,7 @@ class ScheduleState extends State<Schedule> {
     return Stack(
       children: [
         ListView(
-          physics: BouncingScrollPhysics(),
+          // physics: BouncingScrollPhysics(),
           children: [
             Container(
               decoration: BoxDecoration(
