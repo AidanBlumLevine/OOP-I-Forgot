@@ -18,16 +18,20 @@ class LoadingState extends State<Loading> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: CircularProgressIndicator(valueColor: AlwaysStoppedAnimation<Color>(Colors.blue[800])),
-        //     Container(
-        //       padding: EdgeInsets.only(top: 30),
-        //       child: Text(
-        //         widget.text,
-        //         style: TextStyle(color: Colors.black54),
-        //       ),
-        //     ),
-        //   ],
-        // ),
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          crossAxisAlignment: CrossAxisAlignment.center,
+          children: [
+            CircularProgressIndicator(valueColor: AlwaysStoppedAnimation<Color>(Colors.blue[800])),
+            Container(
+              padding: EdgeInsets.only(top: 30),
+              child: Text(
+                widget.text,
+                style: TextStyle(color: Colors.black54),
+              ),
+            ),
+          ],
+        ),
       ),
     );
   }

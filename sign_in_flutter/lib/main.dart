@@ -46,7 +46,7 @@ class RouteState extends State<Route> {
     info.api.autoSignIn().then((loggedIn) {
       setState(() {
         if (loggedIn) {
-          info.postLogin(ctx);
+          Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => Loading(info.postLogin, "updating courses and assignments")));
         } else {
           Navigator.pushReplacement(ctx, MaterialPageRoute(builder: (ctx) => Login(info)));
         }
@@ -56,7 +56,7 @@ class RouteState extends State<Route> {
 
   @override
   Widget build(BuildContext context) {
-    return Loading(init, "loading data");
+    return Loading(init, "loading user data");
   }
 }
 

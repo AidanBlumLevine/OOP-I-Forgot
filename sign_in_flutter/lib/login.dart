@@ -83,7 +83,7 @@ class LoginState extends State<Login> {
                       widget.info.api.signIn().then((loggedIn) {
                         if (loggedIn) {
                           Navigator.pushReplacement(
-                              context, MaterialPageRoute(builder: (context) => Loading(widget.info.postLogin, "updating courses")));
+                              context, MaterialPageRoute(builder: (context) => Loading(widget.info.postLogin, "updating courses and assignments")));
                         }
                       });
                     },

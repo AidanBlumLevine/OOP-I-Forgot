@@ -70,7 +70,7 @@ class AppData {
   List<Color> colors = [
     Color(0xFFef476f),
     Color(0xFF118ab2),
-    Color(0xffffd166),
+    Color(0xeeeec055),
     Color(0xFF06d6a0),
     Color(0xFF073b4c),
     Color(0xFF33691e),
