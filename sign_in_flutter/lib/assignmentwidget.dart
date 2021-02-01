@@ -7,19 +7,23 @@ import 'appdata.dart';
 import 'listcard.dart';
 
 class AssignmentWidget extends StatefulWidget {
-  AssignmentWidget({
-    Key key,
-    @required this.assignment,
-    this.checkColor,
-    @required this.setCourseState,
-    @required this.alertsEnabled,
-    @required this.info,
-  }) : super(key: key);
+  AssignmentWidget(
+      {Key key,
+      @required this.assignment,
+      this.checkColor,
+      @required this.setCourseState,
+      @required this.alertsEnabled,
+      @required this.info,
+      this.updateOnComplete = true,
+      this.course})
+      : super(key: key);
   final AssignmentData assignment;
   final AppInfo info;
   final Color checkColor;
   final bool alertsEnabled;
   final setCourseState;
+  final updateOnComplete;
+  final CourseData course;
   AssignmentWidgetState createState() => AssignmentWidgetState();
 }
 
@@ -82,6 +86,7 @@ class AssignmentWidgetState extends State<AssignmentWidget> with SingleTickerPro
                       fontWeight: FontWeight.bold,
                     ),
                   ),
+                  widget.course == null ? Container() : Text("For ${widget.course.name}"),
                   widget.assignment.due == null
                       ? Text("No due date")
                       : Text(
@@ -195,7 +200,9 @@ class AssignmentWidgetState extends State<AssignmentWidget> with SingleTickerPro
               widget.assignment.addNotification();
               widget.assignment.addAlertNotification();
             }
-            widget.setCourseState();
+            if (widget.updateOnComplete) {
+              widget.setCourseState();
+            }
           }),
           child: SizedBox(
             width: 24,

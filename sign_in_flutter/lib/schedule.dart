@@ -17,6 +17,11 @@ class ScheduleState extends State<Schedule> {
   String newName = 'New event';
   List<String> days = ['', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat', 'sun'];
   List<String> fulldays = ['', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
+
+  updateState() {
+    setState(() {});
+  }
+
   @override
   Widget build(BuildContext context) {
     List<EventData> events = widget.info.data.eventsFrom(widget.info.data.currentDay);
@@ -130,6 +135,7 @@ class ScheduleState extends State<Schedule> {
         onDismissed: () {
           widget.info.notifications.flutterLocalNotificationsPlugin.cancel(e.notificationID);
           widget.info.data.events.remove(e);
+          updateState();
         },
         child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,

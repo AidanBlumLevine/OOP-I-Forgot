@@ -221,11 +221,11 @@ class CourseData {
   }
 
   int compareAssignments(AssignmentData a, AssignmentData b) {
-    if (a.completed) {
-      if (b.completed) {
-        return a.completedAt.isBefore(b.completedAt) ? -1 : 1;
-      }
-    }
+    // if (a.completed) {
+    //   if (b.completed) {
+    //     return a.completedAt.isBefore(b.completedAt) ? -1 : 1;
+    //   }
+    // }
     if (a.due == null) {
       if (b.due == null) {
         return 0;
@@ -302,7 +302,7 @@ class CourseData {
             child: Column(
               children: [
                 Text("Completed", style: TextStyle(fontWeight: FontWeight.bold, fontSize: 15, color: Colors.white)),
-                Text("completed tasks dissapear after a week", style: TextStyle(color: Colors.white, fontSize: 10)),
+                Text("completed tasks disappear after a week", style: TextStyle(color: Colors.white, fontSize: 10)),
               ],
             ),
           ),

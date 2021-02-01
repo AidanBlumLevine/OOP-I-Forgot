@@ -18,6 +18,10 @@ class UpNextState extends State<UpNext> {
     super.initState();
   }
 
+  updateState() {
+    setState(() {});
+  }
+
   @override
   Widget build(BuildContext context) {
     DateTime now = DateTime.now();
@@ -66,6 +70,7 @@ class UpNextState extends State<UpNext> {
                         key: Key(comingUp[index - 1].uuid),
                         onDismissed: () {
                           widget.info.data.events.remove(comingUp[index - 1]);
+                          updateState();
                         },
                         child: Row(
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -99,9 +104,11 @@ class UpNextState extends State<UpNext> {
                                 : AssignmentWidget(
                                     assignment: comingUp[index - 1],
                                     checkColor: Color(0xff293241),
-                                    setCourseState: (() {}),
+                                    setCourseState: updateState,
+                                    updateOnComplete: false,
                                     alertsEnabled: true,
                                     info: widget.info,
+                                    course: widget.info.data.courses.firstWhere((element) => element.assignments.contains(comingUp[index - 1])),
                                   )));
       },
     );
