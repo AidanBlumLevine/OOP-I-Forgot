@@ -14,7 +14,6 @@ class SettingState extends State<Settings> {
   @override
   Widget build(BuildContext context) {
     return ListView(
-      physics: BouncingScrollPhysics(),
       children: [
         Container(
           decoration: BoxDecoration(
@@ -53,48 +52,48 @@ class SettingState extends State<Settings> {
                   child: Text('About'),
                 ),
               ),
-              Padding(
-                padding: const EdgeInsets.fromLTRB(12, 0, 0, 0),
-                child: RaisedButton(
-                  shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
-                  color: Colors.blue[800],
-                  textColor: Colors.white,
-                  onPressed: () {},
-                  child: Text('Add parent'),
-                ),
-              ),
-              Padding(
-                padding: const EdgeInsets.fromLTRB(0, 0, 50, 0),
-                child: CheckboxListTile(
-                  title: Text("Enable schedule notifications"),
-                  value: false,
-                  onChanged: (newValue) {},
-                  activeColor: Colors.blue[800],
-                ),
-              ),
-              true
-                  ? Padding(
-                      //aandroid version !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-                      padding: const EdgeInsets.fromLTRB(0, 0, 50, 0),
-                      child: CheckboxListTile(
-                        title: Text("Enable pop-up notifications"),
-                        value: false,
-                        onChanged: (newValue) {},
-                        activeColor: Colors.blue[800],
-                      ),
-                    )
-                  : Container(
-                      child: Text('Your phone does not support pop-up notifications'),
-                    ),
-              Padding(
-                padding: const EdgeInsets.fromLTRB(0, 0, 50, 0),
-                child: CheckboxListTile(
-                  title: Text("Notifications one hour before due date"),
-                  value: false,
-                  onChanged: (newValue) {},
-                  activeColor: Colors.blue[800],
-                ),
-              ),
+              // Padding(
+              //   padding: const EdgeInsets.fromLTRB(12, 0, 0, 0),
+              //   child: RaisedButton(
+              //     shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+              //     color: Colors.blue[800],
+              //     textColor: Colors.white,
+              //     onPressed: () {},
+              //     child: Text('Add parent'),
+              //   ),
+              // ),
+              // Padding(
+              //   padding: const EdgeInsets.fromLTRB(0, 0, 50, 0),
+              //   child: CheckboxListTile(
+              //     title: Text("Enable schedule notifications"),
+              //     value: false,
+              //     onChanged: (newValue) {},
+              //     activeColor: Colors.blue[800],
+              //   ),
+              // ),
+              // true
+              //     ? Padding(
+              //         //aandroid version !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+              //         padding: const EdgeInsets.fromLTRB(0, 0, 50, 0),
+              //         child: CheckboxListTile(
+              //           title: Text("Enable pop-up notifications"),
+              //           value: false,
+              //           onChanged: (newValue) {},
+              //           activeColor: Colors.blue[800],
+              //         ),
+              //       )
+              //     : Container(
+              //         child: Text('Your phone does not support pop-up notifications'),
+              //       ),
+              // Padding(
+              //   padding: const EdgeInsets.fromLTRB(0, 0, 50, 0),
+              //   child: CheckboxListTile(
+              //     title: Text("Notifications one hour before due date"),
+              //     value: false,
+              //     onChanged: (newValue) {},
+              //     activeColor: Colors.blue[800],
+              //   ),
+              // ),
               Padding(
                 padding: const EdgeInsets.fromLTRB(12, 0, 0, 0),
                 child: RaisedButton(

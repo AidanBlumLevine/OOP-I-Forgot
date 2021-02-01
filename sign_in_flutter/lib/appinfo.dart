@@ -25,10 +25,16 @@ class AppInfo {
     Directory path = await getApplicationDocumentsDirectory();
     String filename = email.replaceAll(RegExp('([^a-z0-9]+)'), '-');
     File savedData = File(path.path + "/" + filename + '.json');
-    if (await savedData.exists()) {
-      String source = await savedData.readAsString();
-      data = AppData.fromJson(jsonDecode(source));
-    } else {
+    try {
+      if (await savedData.exists()) {
+        String source = await savedData.readAsString();
+        data = AppData.fromJson(jsonDecode(source));
+      } else {
+        data = AppData(email);
+      }
+    } on Exception catch (e) {
+      print(e);
+      savedData.delete();
       data = AppData(email);
     }
     data.saveTo = savedData;
@@ -142,5 +148,9 @@ class AppInfo {
     data.currentDay = DateTime.now().weekday;
     //done loading
     Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => Main(this)));
+  }
+
+  Widget streak() {
+    return Container();
   }
 }

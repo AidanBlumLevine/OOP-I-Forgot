@@ -86,7 +86,7 @@ class AssignmentWidgetState extends State<AssignmentWidget> with SingleTickerPro
                       fontWeight: FontWeight.bold,
                     ),
                   ),
-                  widget.course == null ? Container() : Text("For ${widget.course.name}"),
+                  widget.course == null ? Container() : Text("for ${widget.course.name}"),
                   widget.assignment.due == null
                       ? Text("No due date")
                       : Text(
@@ -128,7 +128,7 @@ class AssignmentWidgetState extends State<AssignmentWidget> with SingleTickerPro
                     }),
                     child: Icon(
                       Icons.settings_rounded,
-                      size: 25,
+                      size: 28,
                     ),
                   ),
                 ),
@@ -167,7 +167,7 @@ class AssignmentWidgetState extends State<AssignmentWidget> with SingleTickerPro
 
   Widget greyedButton(String text) {
     return Container(
-      height: 26,
+      height: 28,
       padding: EdgeInsets.fromLTRB(0, 3, 0, 0),
       child: RawMaterialButton(
         onPressed: null,
@@ -205,8 +205,8 @@ class AssignmentWidgetState extends State<AssignmentWidget> with SingleTickerPro
             }
           }),
           child: SizedBox(
-            width: 24,
-            height: 24,
+            width: 28,
+            height: 28,
             child: Container(
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.all(Radius.circular(6)),
@@ -235,7 +235,7 @@ class AssignmentWidgetState extends State<AssignmentWidget> with SingleTickerPro
   Widget alert() => Row(
         children: [
           Container(
-            height: 26,
+            height: 28,
             padding: EdgeInsets.fromLTRB(0, 3, 0, 0),
             child: RawMaterialButton(
               onPressed: () => setState(() {
@@ -257,8 +257,8 @@ class AssignmentWidgetState extends State<AssignmentWidget> with SingleTickerPro
             ),
           ),
           Container(
-            height: 26,
-            width: 26,
+            height: 28,
+            width: 28,
             padding: EdgeInsets.fromLTRB(2, 3, 0, 0),
             child: RawMaterialButton(
               onPressed: () => setState(() {
