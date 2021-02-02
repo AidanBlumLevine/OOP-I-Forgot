@@ -115,23 +115,84 @@ class UpNextState extends State<UpNext> {
         ),
         Align(
           alignment: Alignment.bottomCenter,
-          child: Container(
-              padding: const EdgeInsets.all(8.0),
-              margin: const EdgeInsets.all(8.0),
-              height: 55,
-              decoration: BoxDecoration(
-                borderRadius: BorderRadius.circular(10),
-                color: Colors.red,
-              ),
-              child: Row(
-                children: [
-                  Text(
-                    "Streak",
-                    style: TextStyle(color: Colors.white, fontSize: 25, fontWeight: FontWeight.bold),
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              widget.info.data.streak > 5
+                  ? Row(
+                      mainAxisAlignment: MainAxisAlignment.center,
+                      children: [
+                        Image.asset(
+                          'assets/logos/lion.png',
+                          height: 30,
+                          width: 50,
+                        ),
+                        Image.asset(
+                          'assets/logos/lion.png',
+                          height: 30,
+                          width: 50,
+                        ),
+                        Image.asset(
+                          'assets/logos/lion.png',
+                          height: 30,
+                          width: 50,
+                        ),
+                        Image.asset(
+                          'assets/logos/lion.png',
+                          height: 30,
+                          width: 50,
+                        ),
+                        Image.asset(
+                          'assets/logos/lion.png',
+                          height: 30,
+                          width: 50,
+                        ),
+                        Image.asset(
+                          'assets/logos/lion.png',
+                          height: 30,
+                          width: 50,
+                        ),
+                      ],
+                    )
+                  : Container(),
+              Container(
+                  padding: const EdgeInsets.all(8.0),
+                  margin: const EdgeInsets.all(8.0),
+                  height: 45,
+                  decoration: BoxDecoration(
+                    borderRadius: BorderRadius.circular(10),
+                    color: Colors.red,
                   ),
-                  widget.info.streak(),
-                ],
-              )),
+                  child: Row(
+                    children: [
+                      Text(
+                        "Work-O-Meter",
+                        style: TextStyle(color: Colors.white, fontSize: 20, fontWeight: FontWeight.bold),
+                      ),
+                      Expanded(
+                        child: Padding(
+                          padding: EdgeInsets.fromLTRB(10, 2, 2, 1),
+                          child: Stack(
+                            children: [
+                              Container(
+                                decoration: BoxDecoration(borderRadius: BorderRadius.circular(6), color: Colors.black87),
+                              ),
+                              FractionallySizedBox(
+                                alignment: Alignment.topCenter,
+                                widthFactor: widget.info.streak(),
+                                child: Container(
+                                  width: 10,
+                                  decoration: BoxDecoration(borderRadius: BorderRadius.circular(6), color: Colors.yellow),
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                      )
+                    ],
+                  )),
+            ],
+          ),
         ),
       ],
     );

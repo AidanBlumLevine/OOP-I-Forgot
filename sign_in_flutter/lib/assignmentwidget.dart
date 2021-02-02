@@ -187,26 +187,26 @@ class AssignmentWidgetState extends State<AssignmentWidget> with SingleTickerPro
     );
   }
 
-  Widget checkbox() => Padding(
-        padding: EdgeInsets.fromLTRB(4, 0, 4, 0),
-        child: InkWell(
-          onTap: () => setState(() {
-            widget.assignment.completed = !widget.assignment.completed;
-            if (widget.assignment.completed) {
-              widget.assignment.completedAt = DateTime.now();
-              widget.assignment.clearNotification();
-              widget.assignment.clearAlertNotification();
-            } else {
-              widget.assignment.addNotification();
-              widget.assignment.addAlertNotification();
-            }
-            if (widget.updateOnComplete) {
-              widget.setCourseState();
-            }
-          }),
+  Widget checkbox() => InkWell(
+        onTap: () => setState(() {
+          widget.assignment.completed = !widget.assignment.completed;
+          if (widget.assignment.completed) {
+            widget.assignment.completedAt = DateTime.now();
+            widget.assignment.clearNotification();
+            widget.assignment.clearAlertNotification();
+          } else {
+            widget.assignment.addNotification();
+            widget.assignment.addAlertNotification();
+          }
+          if (widget.updateOnComplete) {
+            widget.setCourseState();
+          }
+        }),
+        child: Padding(
+          padding: EdgeInsets.fromLTRB(4, 0, 4, 0),
           child: SizedBox(
-            width: 28,
-            height: 28,
+            width: 27,
+            height: 27,
             child: Container(
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.all(Radius.circular(6)),

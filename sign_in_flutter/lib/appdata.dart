@@ -12,6 +12,7 @@ import 'notifications.dart';
 
 class AppData {
   DateTime lastCourseFetch;
+  int streak;
   List<CourseData> courses = [];
   List<EventData> events = [];
   String email;
@@ -29,6 +30,7 @@ class AppData {
     lastCourseFetch = DateTime.parse(json['last_fetch']);
     courses = List<CourseData>.from(json['courses'].map((i) => CourseData.fromJson(i)));
     events = List<EventData>.from((json['events'] ?? []).map((i) => EventData.fromJson(i)));
+    streak = json['streak'] ?? 0;
     currentPage = json['currentPage'];
     if (currentPage == 3) {
       currentPage = 1;
@@ -41,6 +43,7 @@ class AppData {
         'currentPage': currentPage,
         'courses': courses.map((e) => e.toJson()).toList(),
         'events': events.map((e) => e.toJson()).toList(),
+        'streak': streak,
       };
 
   save() {

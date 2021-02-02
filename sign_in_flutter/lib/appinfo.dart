@@ -144,13 +144,21 @@ class AppInfo {
     //====================================================
 
     data.notifications = notifications;
+    if (data.lastCourseFetch != null) {
+      data.streak +=
+          (DateTime.now().millisecondsSinceEpoch / (1000 * 60 * 60 * 24) - data.lastCourseFetch.millisecondsSinceEpoch / (1000 * 60 * 60 * 24))
+              .toInt();
+    }
+    if (data.overdueCount() > 0) {
+      data.streak = 0;
+    }
     data.lastCourseFetch = DateTime.now().subtract(Duration(minutes: 1));
     data.currentDay = DateTime.now().weekday;
     //done loading
     Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => Main(this)));
   }
 
-  Widget streak() {
-    return Container();
+  num streak() {
+    return min(data.streak / 5.0 + .05, 1.0);
   }
 }
