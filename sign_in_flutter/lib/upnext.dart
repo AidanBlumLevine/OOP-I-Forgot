@@ -76,13 +76,23 @@ class UpNextState extends State<UpNext> {
                             child: Row(
                               mainAxisAlignment: MainAxisAlignment.spaceBetween,
                               children: [
-                                Text(
-                                  DateFormat('h:mm a').format(comingUp[index - 1].time),
-                                  style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
+                                Expanded(
+                                  child: Padding(
+                                    padding: const EdgeInsets.symmetric(vertical: 3),
+                                    child: Text(
+                                      DateFormat('h:mm a').format(comingUp[index - 1].time),
+                                      style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
+                                    ),
+                                  ),
                                 ),
-                                Text(
-                                  comingUp[index - 1].name,
-                                  style: TextStyle(fontWeight: FontWeight.normal, fontSize: 16),
+                                Padding(
+                                  padding: EdgeInsets.only(left: 10),
+                                  child: Text(
+                                    comingUp[index - 1].name,
+                                    overflow: TextOverflow.fade,
+                                    softWrap: false,
+                                    style: TextStyle(fontWeight: FontWeight.normal, fontSize: 16),
+                                  ),
                                 ),
                               ],
                             ),
@@ -118,7 +128,7 @@ class UpNextState extends State<UpNext> {
           child: Column(
             mainAxisSize: MainAxisSize.min,
             children: [
-              widget.info.data.streak > 5
+              widget.info.streak() >= 1
                   ? Row(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [

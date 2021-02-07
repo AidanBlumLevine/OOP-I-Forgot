@@ -137,18 +137,28 @@ class ScheduleState extends State<Schedule> {
           widget.info.data.events.remove(e);
           updateState();
         },
-        child: Row(
-          mainAxisAlignment: MainAxisAlignment.spaceBetween,
-          children: [
-            Text(
-              DateFormat('h:mm a').format(e.time),
-              style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
-            ),
-            Text(
-              e.name,
-              style: TextStyle(fontWeight: FontWeight.normal, fontSize: 16),
-            ),
-          ],
+        child: Padding(
+          padding: const EdgeInsets.symmetric(vertical: 3),
+          child: Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              Expanded(
+                child: Text(
+                  DateFormat('h:mm a').format(e.time),
+                  style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
+                ),
+              ),
+              Padding(
+                padding: EdgeInsets.only(left: 10),
+                child: Text(
+                  e.name,
+                  overflow: TextOverflow.fade,
+                  softWrap: false,
+                  style: TextStyle(fontWeight: FontWeight.normal, fontSize: 16),
+                ),
+              ),
+            ],
+          ),
         ),
         name: '"${e.name}"');
   }

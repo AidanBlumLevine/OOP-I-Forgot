@@ -135,7 +135,7 @@ class AppData {
     today.sort((a, b) => (a is EventData ? a.time : a.due).isAfter(b is EventData ? b.time : b.due) ? 1 : -1);
     thisWeek.sort((a, b) => (a is EventData ? a.time : a.due).isAfter(b is EventData ? b.time : b.due) ? 1 : -1);
     today.insert(0, "Today");
-    thisWeek.insert(0, "Later This Week");
+    thisWeek.insert(0, "Due Later This Week");
     if (today.length == 1) {
       today.clear();
     }

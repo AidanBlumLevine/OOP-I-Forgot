@@ -148,6 +148,7 @@ class AppInfo {
       data.streak +=
           (DateTime.now().millisecondsSinceEpoch / (1000 * 60 * 60 * 24) - data.lastCourseFetch.millisecondsSinceEpoch / (1000 * 60 * 60 * 24))
               .toInt();
+      print(DateTime.now().millisecondsSinceEpoch / (1000 * 60 * 60 * 24) - data.lastCourseFetch.millisecondsSinceEpoch / (1000 * 60 * 60 * 24));
     }
     if (data.overdueCount() > 0) {
       data.streak = 0;
