@@ -58,12 +58,12 @@ class About extends StatelessWidget {
               padding: const EdgeInsets.fromLTRB(10, 10, 0, 0),
               child: GestureDetector(
                 child: Text(
-                  "LINK",
+                  "youtu.be/Mim8Z8MDVqk",
                   style: TextStyle(
                     color: Colors.blue[800],
                   ),
                 ),
-                onTap: () => launch("https://winditions.com/"),
+                onTap: () => launch("https://youtu.be/Mim8Z8MDVqk"),
               ),
             ),
             Padding(
@@ -143,7 +143,7 @@ class About extends StatelessWidget {
                   Padding(
                     padding: EdgeInsets.only(top: 50),
                     child: Text(
-                      "If your keyboard is not appearing when trying to type, please restart this app",
+                      "If your keyboard is not appearing when typing, please restart this app",
                       style: TextStyle(
                         color: Colors.black26,
                         fontSize: 10,

@@ -160,6 +160,9 @@ class AppInfo {
   }
 
   num streak() {
+    if (data.streak == null) {
+      data.streak = 0;
+    }
     return min(data.streak / 5.0 + .05, 1.0);
   }
 }

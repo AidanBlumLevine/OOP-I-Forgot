@@ -1,0 +1,9 @@
+
+
+since this app is centered around integration with google classroom,
+here is the username / password for a test account with some google classroom
+classes and assignments set up. If you have one of your own, feel free to use
+it, but this is available if you do not have an account to test with.
+
+Username: oopsiforgottest@gmail.com
+Password: OopsIForgot
