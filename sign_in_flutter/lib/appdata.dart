@@ -1,4 +1,5 @@
 import 'dart:convert';
+import 'dart:ffi';
 import 'dart:io';
 import 'dart:math';
 import 'dart:ui';
@@ -12,7 +13,7 @@ import 'notifications.dart';
 
 class AppData {
   DateTime lastCourseFetch;
-  int streak;
+  double streak;
   List<CourseData> courses = [];
   List<EventData> events = [];
   String email;
@@ -30,7 +31,7 @@ class AppData {
     lastCourseFetch = DateTime.parse(json['last_fetch']);
     courses = List<CourseData>.from(json['courses'].map((i) => CourseData.fromJson(i)));
     events = List<EventData>.from((json['events'] ?? []).map((i) => EventData.fromJson(i)));
-    streak = json['streak'] ?? 0;
+    streak = json['streak'].toDouble() ?? 0;
     currentPage = json['currentPage'];
     if (currentPage == 3) {
       currentPage = 1;
